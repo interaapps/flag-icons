@@ -1,6 +1,6 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
-<rect width="300" height="300" fill="white"/>
+<rect width="300" height="300" fill="#3661F6"/>
 <rect x="500" y="300" width="500" height="300" transform="rotate(-180 500 300)" fill="#EF4B4B"/>
 <rect x="500" y="55" width="500" height="55" transform="rotate(-180 500 55)" fill="#3661F6"/>
 <rect x="500" y="55" width="500" height="11" transform="rotate(-180 500 55)" fill="white"/>
