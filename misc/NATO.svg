@@ -1,0 +1,112 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="300" height="300" fill="white"/>
+<rect x="300" y="300" width="300" height="300" transform="rotate(-180 300 300)" fill="#003EBA"/>
+<circle cx="149" cy="151" r="55.5" stroke="white" stroke-width="7"/>
+<path d="M149 151L168.429 170.43L149 170.43L149 151Z" fill="#003EBA"/>
+<path d="M149 240L168.429 170.43L149 170.43L149 240Z" fill="#003EBA"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="129" y="151" width="20" height="90">
+<path d="M148.652 151L129.222 170.43L148.652 170.43L148.652 151Z" fill="white"/>
+<path d="M148.652 240L129.222 170.43L148.652 170.43L148.652 240Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M148.652 151L129.222 170.43L148.652 170.43L148.652 151Z" fill="#003EBA"/>
+<path d="M148.652 240L129.222 170.43L148.652 170.43L148.652 240Z" fill="#003EBA"/>
+<path d="M155.777 139.687L130.013 163.734L154.918 164.592L155.777 139.687Z" fill="#003EBA"/>
+<path d="M151.845 253.767L130.014 163.733L154.918 164.592L151.845 253.767Z" fill="#003EBA"/>
+</g>
+<path d="M148.652 151L129.222 131.57L148.652 131.57L148.652 151Z" fill="#003EBA"/>
+<path d="M148.652 62L129.222 131.57L148.652 131.57L148.652 62Z" fill="#003EBA"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="149" y="62" width="20" height="89">
+<path d="M149 151L168.43 131.57L149 131.57L149 151Z" fill="white"/>
+<path d="M149 62L168.43 131.57L149 131.57L149 62Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path d="M149 151L168.43 131.57L149 131.57L149 151Z" fill="#003EBA"/>
+<path d="M149 62L168.43 131.57L149 131.57L149 62Z" fill="#003EBA"/>
+<path d="M141.875 162.313L167.638 138.266L142.734 137.408L141.875 162.313Z" fill="#003EBA"/>
+<path d="M145.807 48.2335L167.638 138.267L142.734 137.408L145.807 48.2335Z" fill="#003EBA"/>
+</g>
+<path d="M149 150.652L168.43 131.223V150.652H149Z" fill="#003EBA"/>
+<path d="M238 150.652L168.43 131.223V150.652H238Z" fill="#003EBA"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="149" y="151" width="90" height="20">
+<path d="M149 151L168.43 170.43L168.43 151L149 151Z" fill="white"/>
+<path d="M238 151L168.43 170.43L168.43 151L238 151Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<path d="M149 151L168.43 170.43L168.43 151L149 151Z" fill="#003EBA"/>
+<path d="M238 151L168.43 170.43L168.43 151L238 151Z" fill="#003EBA"/>
+<path d="M137.687 143.876L161.734 169.639L162.592 144.734L137.687 143.876Z" fill="#003EBA"/>
+<path d="M251.767 147.807L161.734 169.638L162.592 144.734L251.767 147.807Z" fill="#003EBA"/>
+</g>
+<path d="M149 150.999L129.57 170.429L129.57 150.999L149 150.999Z" fill="#003EBA"/>
+<path d="M60 150.999L129.57 170.429L129.57 150.999L60 150.999Z" fill="#003EBA"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="131" width="89" height="20">
+<path d="M149 150.651L129.57 131.222V150.651H149Z" fill="white"/>
+<path d="M60 150.651L129.57 131.222V150.651H60Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<path d="M149 150.651L129.57 131.222V150.651H149Z" fill="#003EBA"/>
+<path d="M60 150.651L129.57 131.222V150.651H60Z" fill="#003EBA"/>
+<path d="M160.313 157.776L136.266 132.013L135.408 156.917L160.313 157.776Z" fill="#003EBA"/>
+<path d="M46.2327 153.844L136.266 132.013L135.408 156.918L46.2327 153.844Z" fill="#003EBA"/>
+</g>
+<path d="M149.5 150.5L166.855 167.856L149.5 167.856L149.5 150.5Z" fill="white"/>
+<path d="M149.5 230L166.855 167.856L149.5 167.856L149.5 230Z" fill="white"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="131" y="150" width="19" height="80">
+<path d="M149.189 150.5L131.833 167.856L149.189 167.856L149.189 150.5Z" fill="white"/>
+<path d="M149.189 230L131.833 167.856L149.189 167.856L149.189 230Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<path d="M149.189 150.5L131.833 167.856L149.189 167.856L149.189 150.5Z" fill="white"/>
+<path d="M149.189 230L131.833 167.856L149.189 167.856L149.189 230Z" fill="white"/>
+<path d="M155.553 140.395L132.54 161.874L154.787 162.641L155.553 140.395Z" fill="#003EBA"/>
+<path d="M152.041 242.297L132.54 161.874L154.786 162.641L152.041 242.297Z" fill="#003EBA"/>
+</g>
+<path d="M149.189 150.5L131.833 133.144L149.189 133.144L149.189 150.5Z" fill="white"/>
+<path d="M149.189 71L131.833 133.144L149.189 133.144L149.189 71Z" fill="white"/>
+<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="149" y="71" width="18" height="80">
+<path d="M149.5 150.5L166.856 133.144L149.5 133.144L149.5 150.5Z" fill="white"/>
+<path d="M149.5 71L166.856 133.144L149.5 133.144L149.5 71Z" fill="white"/>
+</mask>
+<g mask="url(#mask5)">
+<path d="M149.5 150.5L166.856 133.144L149.5 133.144L149.5 150.5Z" fill="white"/>
+<path d="M149.5 71L166.856 133.144L149.5 133.144L149.5 71Z" fill="white"/>
+<path d="M143.136 160.605L166.149 139.126L143.902 138.359L143.136 160.605Z" fill="#003EBA"/>
+<path d="M146.648 58.703L166.149 139.126L143.903 138.359L146.648 58.703Z" fill="#003EBA"/>
+</g>
+<path d="M149.5 150.189L166.856 132.833V150.189H149.5Z" fill="white"/>
+<path d="M229 150.189L166.856 132.833V150.189H229Z" fill="white"/>
+<mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="149" y="150" width="80" height="18">
+<path d="M149.5 150.5L166.856 167.855L166.856 150.5L149.5 150.5Z" fill="white"/>
+<path d="M229 150.5L166.856 167.855L166.856 150.5L229 150.5Z" fill="white"/>
+</mask>
+<g mask="url(#mask6)">
+<path d="M149.5 150.5L166.856 167.855L166.856 150.5L149.5 150.5Z" fill="white"/>
+<path d="M229 150.5L166.856 167.855L166.856 150.5L229 150.5Z" fill="white"/>
+<path d="M139.395 144.135L160.875 167.149L161.641 144.902L139.395 144.135Z" fill="#003EBA"/>
+<path d="M241.298 147.647L160.875 167.148L161.641 144.902L241.298 147.647Z" fill="#003EBA"/>
+</g>
+<path d="M149.5 150.5L132.144 167.855L132.144 150.5L149.5 150.5Z" fill="white"/>
+<path d="M70 150.5L132.144 167.855L132.144 150.5L70 150.5Z" fill="white"/>
+<mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="132" width="80" height="19">
+<path d="M149.5 150.189L132.144 132.833V150.189H149.5Z" fill="white"/>
+<path d="M70 150.189L132.144 132.833V150.189H70Z" fill="white"/>
+</mask>
+<g mask="url(#mask7)">
+<path d="M149.5 150.189L132.144 132.833V150.189H149.5Z" fill="white"/>
+<path d="M70 150.189L132.144 132.833V150.189H70Z" fill="white"/>
+<path d="M159.605 156.553L138.125 133.54L137.359 155.786L159.605 156.553Z" fill="#003EBA"/>
+<path d="M57.7023 153.041L138.125 133.54L137.359 155.787L57.7023 153.041Z" fill="#003EBA"/>
+</g>
+<rect x="152" y="245" width="43" height="5" rx="1" transform="rotate(90 152 245)" fill="white"/>
+<rect x="152" y="13" width="43" height="5" rx="1" transform="rotate(90 152 13)" fill="white"/>
+<rect x="55" y="153" width="43" height="5" rx="1" transform="rotate(-180 55 153)" fill="white"/>
+<rect x="287" y="153" width="43" height="5" rx="1" transform="rotate(-180 287 153)" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="300" height="300" fill="white"/>
+</clipPath>
+</defs>
+</svg>

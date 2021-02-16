@@ -1,0 +1,28 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="300" height="300" fill="white"/>
+<rect x="300" y="300" width="300" height="300" transform="rotate(-180 300 300)" fill="#EF4B4B"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="137" height="83">
+<rect x="137" y="82.2002" width="137" height="82.2" transform="rotate(-180 137 82.2002)" fill="#3662D5"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="137" y="82.2002" width="137" height="82.2" transform="rotate(-180 137 82.2002)" fill="#3662D5"/>
+<rect x="-15.5996" y="80.1396" width="235.649" height="16.5549" transform="rotate(-30 -15.5996 80.1396)" fill="white"/>
+<rect width="235.649" height="16.5549" transform="matrix(-0.866025 -0.5 -0.5 0.866025 182.215 97.5488)" fill="white"/>
+<rect x="-0.478109" y="0.128109" width="94.0374" height="7.94375" transform="matrix(-0.866025 -0.5 -0.5 0.866025 152.982 80.9265)" fill="#EF4B4B" stroke="white" stroke-width="0.7"/>
+<rect x="-2.9519" y="0.790958" width="90.4155" height="4.32188" transform="matrix(-0.866025 -0.5 -0.5 0.866025 61.2524 38.6007)" fill="#EF4B4B" stroke="white" stroke-width="4.32188"/>
+<rect x="-0.478109" y="0.128109" width="94.0374" height="7.94375" transform="matrix(-0.866025 -0.5 -0.5 0.866025 65.5371 39.7488)" fill="#EF4B4B" stroke="white" stroke-width="0.7"/>
+<rect x="57.7437" y="38.4553" width="94.0374" height="7.94375" transform="rotate(-30 57.7437 38.4553)" fill="#EF4B4B" stroke="white" stroke-width="0.7"/>
+<rect x="-20.3461" y="92.4328" width="114.437" height="7.94375" transform="rotate(-30 -20.3461 92.4328)" fill="#EF4B4B" stroke="white" stroke-width="0.7"/>
+<rect x="-1.5" y="1.5" width="232.649" height="13.5549" transform="matrix(-1 8.74228e-08 8.74228e-08 1 191.001 32.8799)" fill="#EF4B4B" stroke="white" stroke-width="3"/>
+<rect x="-4.11" y="-4.11" width="73.98" height="8.22" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 68.4997 27.1257)" fill="#EF4B4B" stroke="white" stroke-width="8.22"/>
+<rect x="-4.11" y="-4.11" width="73.98" height="8.22" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 68.4997 121.108)" fill="#EF4B4B" stroke="white" stroke-width="8.22"/>
+<rect width="95" height="11" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 74 93)" fill="#EF4B4B"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="300" height="300" fill="white"/>
+</clipPath>
+</defs>
+</svg>
