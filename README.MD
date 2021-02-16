@@ -14,3 +14,8 @@ The `former-states/SSR` folder contains the flags of the soviet republics in the
 
 ## Regions
 The `regions` folder contains some flags of provinces and cities.
+
+
+# Hosted CDN
+InteraApps:
+Example: https://cdn.interaapps.de/icon/flags/states/DE.svg
