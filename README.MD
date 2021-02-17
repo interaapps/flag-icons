@@ -22,7 +22,14 @@ Example: https://cdn.interaapps.de/icon/flags/states/DE.svg
 
 
 # Credits
-For some symboles like the sickle and hamer, compass and hammer, UN-Icon, Afghanistan symbole, Albanian Eagle, Kosovo and antarctica we used Wikipedia Commons.
+For some symboles we used Wikipedia Commons and changed them a bit
+- Kosovo country outline: https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg
+- Hammer and sickle: https://commons.wikimedia.org/wiki/File:Hammer_and_sickle.svg
+- Albanian Eagle: https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg
+- Afghanistan center coat: https://commons.wikimedia.org/wiki/File:Flag_of_Afghanistan.svg
+- Antarctica: https://commons.wikimedia.org/wiki/File:Proposed_flag_of_Antarctica_(Graham_Bartram).svg
+- United Nations: https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Nations.svg
+- Egypt Eagle: https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg
 
 # LICENSE
 https://creativecommons.org/licenses/by-sa/3.0/
