@@ -23,3 +23,6 @@ Example: https://cdn.interaapps.de/icon/flags/states/DE.svg
 
 # Credits
 For some symboles like the sickle and hamer, compass and hammer, UN-Icon, Afghanistan symbole, Albanian Eagle, Kosovo and antarctica we used Wikipedia Commons.
+
+# LICENSE
+https://creativecommons.org/licenses/by-sa/3.0/
