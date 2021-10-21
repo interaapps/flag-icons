@@ -1,11 +1,11 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0)">
+<g clip-path="url(#clip0_118:181)">
 <rect width="300" height="300" fill="#003EBA"/>
 <rect x="300" y="300" width="300" height="300" transform="rotate(-180 300 300)" fill="#003EBA"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="137" height="83">
+<mask id="mask0_118:181" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="137" height="83">
 <rect x="137" y="82.2002" width="137" height="82.2" transform="rotate(-180 137 82.2002)" fill="#3662D5"/>
 </mask>
-<g mask="url(#mask0)">
+<g mask="url(#mask0_118:181)">
 <rect x="137" y="82.2002" width="137" height="82.2" transform="rotate(-180 137 82.2002)" fill="#3662D5"/>
 <rect x="-15.5999" y="80.1401" width="235.649" height="16.5549" transform="rotate(-30 -15.5999 80.1401)" fill="white"/>
 <rect width="235.649" height="16.5549" transform="matrix(-0.866025 -0.5 -0.5 0.866025 182.215 97.5483)" fill="white"/>
@@ -33,7 +33,7 @@
 <path d="M153.733 199.754C154.681 199.552 155.333 200.681 154.684 201.401L148.574 208.188C148.284 208.51 148.234 208.982 148.451 209.357L153.017 217.266C153.501 218.105 152.629 219.074 151.744 218.68L143.401 214.965C143.005 214.789 142.541 214.888 142.251 215.209L136.14 221.996C135.492 222.716 134.301 222.186 134.403 221.223L135.357 212.14C135.403 211.709 135.165 211.298 134.77 211.122L126.426 207.407C125.541 207.013 125.678 205.717 126.625 205.516L135.558 203.617C135.982 203.527 136.3 203.174 136.345 202.743L137.3 193.661C137.401 192.697 138.676 192.426 139.16 193.265L143.726 201.174C143.943 201.55 144.377 201.743 144.8 201.653L153.733 199.754Z" fill="white"/>
 </g>
 <defs>
-<clipPath id="clip0">
+<clipPath id="clip0_118:181">
 <rect width="300" height="300" fill="white"/>
 </clipPath>
 </defs>
