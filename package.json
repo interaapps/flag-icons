@@ -1,0 +1,19 @@
+{
+  "name": "flag-icons",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><img src=\"BANNER.svg\" width=\"1000\"></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interaapps/flag-icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interaapps/flag-icons/issues"
+  },
+  "homepage": "https://github.com/interaapps/flag-icons#readme"
+}
