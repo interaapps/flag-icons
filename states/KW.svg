@@ -1,14 +1,14 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_118:257)">
+<g clip-path="url(#clip0_118_257)">
 <rect width="300" height="300" fill="white"/>
 <rect x="500" y="300" width="500" height="300" transform="rotate(-180 500 300)" fill="white"/>
 <rect width="300" height="100" fill="#3B9644"/>
 <rect x="500" y="200" width="500" height="100" transform="rotate(-180 500 200)" fill="white"/>
 <rect y="200" width="300" height="100" fill="#FF4A4A"/>
-<path d="M-125.868 362.132L-338 150L-125.868 -62.1323L92.6201 99.9999L92.62 150L92.6204 200L-125.868 362.132Z" fill="#252525"/>
+<path d="M-115.474 354.419C-121.446 358.85 -129.762 358.238 -135.02 352.98L-327.393 160.606C-333.251 154.748 -333.251 145.251 -327.393 139.393L-135.02 -52.9805C-129.762 -58.2384 -121.446 -58.8507 -115.475 -54.4197L86.5588 95.5021C90.3719 98.3316 92.6201 102.8 92.6201 107.548L92.62 150L92.6203 192.452C92.6204 197.2 90.3722 201.668 86.559 204.498L-115.474 354.419Z" fill="#252525"/>
 </g>
 <defs>
-<clipPath id="clip0_118:257">
+<clipPath id="clip0_118_257">
 <rect width="300" height="300" fill="white"/>
 </clipPath>
 </defs>

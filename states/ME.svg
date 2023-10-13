@@ -1,23 +1,23 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_118:797)">
+<g clip-path="url(#clip0_118_797)">
 <rect width="300" height="300" fill="white"/>
 <rect x="8" y="8" width="284" height="284" fill="#FF4A4A" stroke="#FFB84F" stroke-width="16"/>
 <circle cx="123.052" cy="149.908" r="30.0517" fill="#FFB84F"/>
 <circle cx="131.248" cy="141.712" r="27.3197" fill="#FF4A4A"/>
-<circle r="30.0517" transform="matrix(-1 0 0 1 176.325 149.908)" fill="#FFB84F"/>
-<circle r="27.3197" transform="matrix(-1 0 0 1 168.129 141.712)" fill="#FF4A4A"/>
-<circle r="11.6109" transform="matrix(-1 0 0 1 190.668 147.858)" fill="#FFB84F"/>
-<circle r="4.78095" transform="matrix(-1 0 0 1 193.4 134.198)" fill="#FFB84F"/>
+<circle cx="30.0517" cy="30.0517" r="30.0517" transform="matrix(-1 0 0 1 206.377 119.856)" fill="#FFB84F"/>
+<circle cx="27.3197" cy="27.3197" r="27.3197" transform="matrix(-1 0 0 1 195.449 114.392)" fill="#FF4A4A"/>
+<circle cx="11.6109" cy="11.6109" r="11.6109" transform="matrix(-1 0 0 1 202.279 136.248)" fill="#FFB84F"/>
+<circle cx="4.78095" cy="4.78095" r="4.78095" transform="matrix(-1 0 0 1 198.181 129.417)" fill="#FFB84F"/>
 <circle cx="108.709" cy="147.858" r="11.6109" fill="#FFB84F"/>
 <circle cx="105.977" cy="134.198" r="4.78095" fill="#FFB84F"/>
 <circle cx="134.663" cy="168.348" r="4.78095" fill="#FFB84F"/>
 <circle cx="126.467" cy="166.982" r="4.78095" fill="#FFB84F"/>
 <circle cx="118.271" cy="164.25" r="4.78095" fill="#FFB84F"/>
 <circle cx="111.441" cy="160.153" r="4.78095" fill="#FFB84F"/>
-<circle r="4.78095" transform="matrix(-1 0 0 1 164.714 168.348)" fill="#FFB84F"/>
-<circle r="4.78095" transform="matrix(-1 0 0 1 172.91 166.982)" fill="#FFB84F"/>
-<circle r="4.78095" transform="matrix(-1 0 0 1 181.106 164.25)" fill="#FFB84F"/>
-<circle r="4.78095" transform="matrix(-1 0 0 1 187.936 160.153)" fill="#FFB84F"/>
+<circle cx="4.78095" cy="4.78095" r="4.78095" transform="matrix(-1 0 0 1 169.495 163.567)" fill="#FFB84F"/>
+<circle cx="4.78095" cy="4.78095" r="4.78095" transform="matrix(-1 0 0 1 177.691 162.201)" fill="#FFB84F"/>
+<circle cx="4.78095" cy="4.78095" r="4.78095" transform="matrix(-1 0 0 1 185.887 159.469)" fill="#FFB84F"/>
+<circle cx="4.78095" cy="4.78095" r="4.78095" transform="matrix(-1 0 0 1 192.717 155.372)" fill="#FFB84F"/>
 <circle cx="140.5" cy="118.5" r="7.5" fill="#FFB84F"/>
 <circle cx="159.5" cy="118.5" r="7.5" fill="#FFB84F"/>
 <path d="M139.444 166.299H159.933V186.106C159.933 191.764 155.347 196.351 149.688 196.351C144.03 196.351 139.444 191.764 139.444 186.106V166.299Z" fill="#FFB84F"/>
@@ -40,7 +40,7 @@
 <circle cx="150" cy="100" r="0.95" fill="#3661F6" stroke="#FFB84F" stroke-width="0.1"/>
 </g>
 <defs>
-<clipPath id="clip0_118:797">
+<clipPath id="clip0_118_797">
 <rect width="300" height="300" fill="white"/>
 </clipPath>
 </defs>

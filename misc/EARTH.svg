@@ -2,10 +2,10 @@
 <rect width="300" height="300" fill="#003EBA"/>
 <circle cx="150" cy="150" r="104" fill="white" fill-opacity="0.04"/>
 <circle cx="149.5" cy="150.5" r="145.5" fill="white" fill-opacity="0.04"/>
-<mask id="mask0_126:34" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="61" y="61" width="178" height="178">
+<mask id="mask0_126_34" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="61" y="61" width="178" height="178">
 <circle cx="150" cy="150" r="89" fill="#3661F6"/>
 </mask>
-<g mask="url(#mask0_126:34)">
+<g mask="url(#mask0_126_34)">
 <circle cx="150" cy="150" r="89" fill="#3661F6"/>
 <rect x="158" y="178" width="134" height="30" rx="15" fill="#55E864"/>
 <rect x="-26" y="185" width="134" height="27" rx="13.5" fill="#55E864"/>

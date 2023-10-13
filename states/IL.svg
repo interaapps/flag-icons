@@ -1,14 +1,14 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_113:601)">
+<g clip-path="url(#clip0_113_601)">
 <rect width="300" height="300" fill="white"/>
 <rect x="500" y="300" width="500" height="300" transform="rotate(-180 500 300)" fill="white"/>
 <rect x="300" y="274" width="300" height="40" transform="rotate(-180 300 274)" fill="#4B51EF"/>
 <rect x="300" y="66" width="300" height="40" transform="rotate(-180 300 66)" fill="#4B51EF"/>
-<path d="M102.26 177.5L149.5 95.0723L196.74 177.5H102.26Z" stroke="#4B51EF" stroke-width="13"/>
-<path d="M196.74 122.5L149.5 204.928L102.26 122.5L196.74 122.5Z" stroke="#4B51EF" stroke-width="13"/>
+<path d="M151.669 98.857L194.595 173.757C195.55 175.424 194.346 177.5 192.426 177.5H106.574C104.654 177.5 103.45 175.424 104.405 173.757L147.331 98.857C148.291 97.1811 150.709 97.1811 151.669 98.857Z" stroke="#4B51EF" stroke-width="13"/>
+<path d="M147.331 201.143L104.405 126.243C103.45 124.576 104.654 122.5 106.574 122.5L192.426 122.5C194.346 122.5 195.55 124.576 194.595 126.243L151.669 201.143C150.709 202.819 148.291 202.819 147.331 201.143Z" stroke="#4B51EF" stroke-width="13"/>
 </g>
 <defs>
-<clipPath id="clip0_113:601">
+<clipPath id="clip0_113_601">
 <rect width="300" height="300" fill="white"/>
 </clipPath>
 </defs>
