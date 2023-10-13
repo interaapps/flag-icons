@@ -2,7 +2,7 @@
 <g clip-path="url(#clip0_126_13)">
 <rect width="300" height="300" fill="#3B9644"/>
 <rect width="300" height="300" fill="#44AE4F"/>
-<rect x="150.066" y="14" width="192.426" height="192.426" rx="13" transform="rotate(45 150.066 14)" fill="#FFC266"/>
+<rect x="150.066" y="14" width="192.426" height="192.426" rx="15" transform="rotate(45 150.066 14)" fill="#FFC266"/>
 <mask id="mask0_126_13" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="83" y="83" width="134" height="134">
 <circle cx="150" cy="150" r="67" fill="#003EBA"/>
 </mask>
