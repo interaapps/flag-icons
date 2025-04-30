@@ -19,7 +19,7 @@
 <rect x="-4.11" y="-4.11" width="73.98" height="8.22" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 68.5 121.108)" fill="#EF4B4B" stroke="white" stroke-width="8.22"/>
 <rect width="95" height="11" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 74 93)" fill="#EF4B4B"/>
 </g>
-<path d="M182 95H179V98V162.742C179 186.491 198.252 205.742 222 205.742C245.748 205.742 265 186.49 265 162.742V98V95H262H182Z" fill="#FF4A4A" stroke="#232323" stroke-width="6"/>
+<path d="M265 95V162.742C265 186.49 245.748 205.742 222 205.742C198.252 205.742 179 186.49 179 162.742V95H265Z" fill="#FF4A4A" stroke="#232323" stroke-width="6"/>
 <mask id="mask1_118_1609" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="182" y="98" width="80" height="105">
 <path d="M182 98H262V162.742C262 184.834 244.091 202.742 222 202.742C199.909 202.742 182 184.834 182 162.742V98Z" fill="#FF4A4A"/>
 </mask>
