@@ -1,0 +1,1068 @@
+@font-face {
+    font-family: 'iafi-ad';
+    src: url('../states/AD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ae';
+    src: url('../states/AE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-af-old';
+    src: url('../states/AF-OLD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-af';
+    src: url('../states/AF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ag';
+    src: url('../states/AG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ai';
+    src: url('../states/AI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-al';
+    src: url('../states/AL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-am';
+    src: url('../states/AM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-an';
+    src: url('../states/AN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-antarctica';
+    src: url('../states/ANTARCTICA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ao';
+    src: url('../states/AO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-aq';
+    src: url('../states/AQ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ar';
+    src: url('../states/AR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-as';
+    src: url('../states/AS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-at';
+    src: url('../states/AT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-au';
+    src: url('../states/AU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-aw';
+    src: url('../states/AW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ax';
+    src: url('../states/AX.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-az';
+    src: url('../states/AZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ba';
+    src: url('../states/BA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bb';
+    src: url('../states/BB.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bd';
+    src: url('../states/BD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-be';
+    src: url('../states/BE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bf';
+    src: url('../states/BF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bg';
+    src: url('../states/BG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bh';
+    src: url('../states/BH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bi';
+    src: url('../states/BI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bj';
+    src: url('../states/BJ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bl';
+    src: url('../states/BL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bm';
+    src: url('../states/BM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bn';
+    src: url('../states/BN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bo';
+    src: url('../states/BO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bq';
+    src: url('../states/BQ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-br';
+    src: url('../states/BR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bs';
+    src: url('../states/BS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bt';
+    src: url('../states/BT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bv';
+    src: url('../states/BV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bw';
+    src: url('../states/BW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-by';
+    src: url('../states/BY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-bz';
+    src: url('../states/BZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ca';
+    src: url('../states/CA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cc';
+    src: url('../states/CC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cd';
+    src: url('../states/CD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cf';
+    src: url('../states/CF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cg';
+    src: url('../states/CG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ch';
+    src: url('../states/CH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ci';
+    src: url('../states/CI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ck';
+    src: url('../states/CK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cl';
+    src: url('../states/CL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cm';
+    src: url('../states/CM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cn';
+    src: url('../states/CN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-co';
+    src: url('../states/CO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cr';
+    src: url('../states/CR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ctr';
+    src: url('../states/CTR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cu';
+    src: url('../states/CU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cv';
+    src: url('../states/CV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cw';
+    src: url('../states/CW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cx';
+    src: url('../states/CX.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cy';
+    src: url('../states/CY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-cz';
+    src: url('../states/CZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-de';
+    src: url('../states/DE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-dj';
+    src: url('../states/DJ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-dk';
+    src: url('../states/DK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-dm';
+    src: url('../states/DM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-do';
+    src: url('../states/DO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-dz';
+    src: url('../states/DZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-earth';
+    src: url('../states/EARTH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ec';
+    src: url('../states/EC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ee';
+    src: url('../states/EE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-eg';
+    src: url('../states/EG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-eh';
+    src: url('../states/EH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-er';
+    src: url('../states/ER.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-es';
+    src: url('../states/ES.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-et';
+    src: url('../states/ET.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-eu-2';
+    src: url('../states/EU-2.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-eu-3';
+    src: url('../states/EU-3.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-eu';
+    src: url('../states/EU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fi';
+    src: url('../states/FI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fj';
+    src: url('../states/FJ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fk';
+    src: url('../states/FK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fm';
+    src: url('../states/FM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fo';
+    src: url('../states/FO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-fr';
+    src: url('../states/FR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ga';
+    src: url('../states/GA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gb';
+    src: url('../states/GB.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gd';
+    src: url('../states/GD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ge';
+    src: url('../states/GE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gf';
+    src: url('../states/GF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gg';
+    src: url('../states/GG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gh';
+    src: url('../states/GH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gi';
+    src: url('../states/GI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gl';
+    src: url('../states/GL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gm';
+    src: url('../states/GM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gn';
+    src: url('../states/GN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gp';
+    src: url('../states/GP.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gq';
+    src: url('../states/GQ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gr';
+    src: url('../states/GR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gs';
+    src: url('../states/GS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gt';
+    src: url('../states/GT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gu';
+    src: url('../states/GU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gw';
+    src: url('../states/GW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-gy';
+    src: url('../states/GY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-hk';
+    src: url('../states/HK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-hm';
+    src: url('../states/HM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-hn';
+    src: url('../states/HN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-hr';
+    src: url('../states/HR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ht';
+    src: url('../states/HT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-hu';
+    src: url('../states/HU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-id';
+    src: url('../states/ID.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ie';
+    src: url('../states/IE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-il';
+    src: url('../states/IL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-im';
+    src: url('../states/IM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-in';
+    src: url('../states/IN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-io';
+    src: url('../states/IO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-iq';
+    src: url('../states/IQ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ir';
+    src: url('../states/IR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-is';
+    src: url('../states/IS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-it';
+    src: url('../states/IT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-je';
+    src: url('../states/JE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-jm';
+    src: url('../states/JM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-jo';
+    src: url('../states/JO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-jp';
+    src: url('../states/JP.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ke';
+    src: url('../states/KE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kg';
+    src: url('../states/KG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kh';
+    src: url('../states/KH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ki';
+    src: url('../states/KI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-km';
+    src: url('../states/KM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kn';
+    src: url('../states/KN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kp';
+    src: url('../states/KP.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kr-extra';
+    src: url('../states/KR-EXTRA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kr';
+    src: url('../states/KR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-krd';
+    src: url('../states/KRD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kw';
+    src: url('../states/KW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ky';
+    src: url('../states/KY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-kz';
+    src: url('../states/KZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-la';
+    src: url('../states/LA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lb';
+    src: url('../states/LB.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lc';
+    src: url('../states/LC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-li';
+    src: url('../states/LI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lk';
+    src: url('../states/LK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lr';
+    src: url('../states/LR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ls';
+    src: url('../states/LS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lt';
+    src: url('../states/LT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lu';
+    src: url('../states/LU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-lv';
+    src: url('../states/LV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ly';
+    src: url('../states/LY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ma';
+    src: url('../states/MA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mc';
+    src: url('../states/MC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-md';
+    src: url('../states/MD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-me';
+    src: url('../states/ME.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mf';
+    src: url('../states/MF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mg';
+    src: url('../states/MG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mh';
+    src: url('../states/MH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mk';
+    src: url('../states/MK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ml';
+    src: url('../states/ML.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mm';
+    src: url('../states/MM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mn';
+    src: url('../states/MN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mo';
+    src: url('../states/MO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mp';
+    src: url('../states/MP.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mq';
+    src: url('../states/MQ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mr';
+    src: url('../states/MR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ms';
+    src: url('../states/MS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mt';
+    src: url('../states/MT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mu';
+    src: url('../states/MU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mv';
+    src: url('../states/MV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mw';
+    src: url('../states/MW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mx';
+    src: url('../states/MX.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-my';
+    src: url('../states/MY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-mz';
+    src: url('../states/MZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-na';
+    src: url('../states/NA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nato-1';
+    src: url('../states/NATO-1.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nato';
+    src: url('../states/NATO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nc';
+    src: url('../states/NC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ne';
+    src: url('../states/NE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nf';
+    src: url('../states/NF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ng';
+    src: url('../states/NG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ni';
+    src: url('../states/NI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nkr';
+    src: url('../states/NKR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nl';
+    src: url('../states/NL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-no';
+    src: url('../states/NO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-np';
+    src: url('../states/NP.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nr';
+    src: url('../states/NR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nu';
+    src: url('../states/NU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-nz';
+    src: url('../states/NZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-om';
+    src: url('../states/OM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pa';
+    src: url('../states/PA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pe';
+    src: url('../states/PE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pf';
+    src: url('../states/PF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pg';
+    src: url('../states/PG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ph';
+    src: url('../states/PH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pk';
+    src: url('../states/PK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pl';
+    src: url('../states/PL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pm';
+    src: url('../states/PM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pmr';
+    src: url('../states/PMR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pn';
+    src: url('../states/PN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pr';
+    src: url('../states/PR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ps';
+    src: url('../states/PS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pt';
+    src: url('../states/PT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-pw';
+    src: url('../states/PW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-py';
+    src: url('../states/PY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-qa';
+    src: url('../states/QA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-re';
+    src: url('../states/RE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ro';
+    src: url('../states/RO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-rs';
+    src: url('../states/RS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ru';
+    src: url('../states/RU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-rw';
+    src: url('../states/RW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sa';
+    src: url('../states/SA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sb';
+    src: url('../states/SB.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sc';
+    src: url('../states/SC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sd';
+    src: url('../states/SD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-se';
+    src: url('../states/SE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sg';
+    src: url('../states/SG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sh';
+    src: url('../states/SH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-si';
+    src: url('../states/SI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sj';
+    src: url('../states/SJ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sk';
+    src: url('../states/SK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sl';
+    src: url('../states/SL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sm';
+    src: url('../states/SM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sn';
+    src: url('../states/SN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-so';
+    src: url('../states/SO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sr';
+    src: url('../states/SR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ss';
+    src: url('../states/SS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-st';
+    src: url('../states/ST.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sv';
+    src: url('../states/SV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sx';
+    src: url('../states/SX.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sy';
+    src: url('../states/SY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-sz';
+    src: url('../states/SZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tc';
+    src: url('../states/TC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-td';
+    src: url('../states/TD.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tf';
+    src: url('../states/TF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tg';
+    src: url('../states/TG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-th';
+    src: url('../states/TH.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tj';
+    src: url('../states/TJ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tk';
+    src: url('../states/TK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tl';
+    src: url('../states/TL.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tm';
+    src: url('../states/TM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tn';
+    src: url('../states/TN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-to';
+    src: url('../states/TO.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tr';
+    src: url('../states/TR.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tt';
+    src: url('../states/TT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tv';
+    src: url('../states/TV.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tw';
+    src: url('../states/TW.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-tz';
+    src: url('../states/TZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ua';
+    src: url('../states/UA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ug';
+    src: url('../states/UG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-uk';
+    src: url('../states/UK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-um';
+    src: url('../states/UM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-un';
+    src: url('../states/UN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-unknown';
+    src: url('../states/UNKNOWN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-us';
+    src: url('../states/US.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-uy';
+    src: url('../states/UY.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-uz';
+    src: url('../states/UZ.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-va';
+    src: url('../states/VA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-vc';
+    src: url('../states/VC.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ve';
+    src: url('../states/VE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-vg';
+    src: url('../states/VG.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-vi';
+    src: url('../states/VI.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-vn';
+    src: url('../states/VN.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-vu';
+    src: url('../states/VU.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-wf';
+    src: url('../states/WF.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ws';
+    src: url('../states/WS.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-xk';
+    src: url('../states/XK.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-ye';
+    src: url('../states/YE.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-yt';
+    src: url('../states/YT.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-za';
+    src: url('../states/ZA.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-zm';
+    src: url('../states/ZM.svg') format('svg');
+}
+@font-face {
+    font-family: 'iafi-zw';
+    src: url('../states/ZW.svg') format('svg');
+}

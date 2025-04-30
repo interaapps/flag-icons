@@ -1,10 +1,13 @@
 {
-  "name": "flag-icons",
-  "version": "1.0.0",
+  "name": "ia-flag-icons",
+  "version": "2.0.0",
   "description": "<p align=\"center\"><img src=\"BANNER.svg\" width=\"1000\"></p>",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check-countries": "node scripts/check-countries.js",
+    "build": "node scripts/create-lib.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,25 @@
   "bugs": {
     "url": "https://github.com/interaapps/flag-icons/issues"
   },
-  "homepage": "https://github.com/interaapps/flag-icons#readme"
+  "exports": {
+    ".": {
+      "import": "./lib/index.js",
+      "types": "./lib/index.d.ts"
+    },
+    "./vite": {
+      "import": "./lib/vite.js",
+      "types": "./lib/vite.d.ts"
+    },
+    "./css/font.css": "./css/font.css",
+    "./css/lib.css": "./css/lib.css",
+    "./lib/flags.json": "./lib/flags.json",
+    "./states/*.svg": "./states/*.svg",
+    "./states/png/*.png": "./states/*.png",
+    "./misc/*.svg": "./misc/*.svg",
+    "./former-states/*.svg": "./former-states/*.svg"
+  },
+  "homepage": "https://github.com/interaapps/flag-icons#readme",
+  "devDependencies": {
+    "iso-3166": "^4.3.0"
+  }
 }

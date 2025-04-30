@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InteraApps Flag Icons</title>
+</head>
+<body>
+    <style>
+        @import url(https://fonts.intera.dev/_/plus+jakarta+sans);
+
+        :root {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+    </style>
+
+    <div id="app"></div>
+
+
+    <script type="module">
+        import { html, appendTo, state, computed } from 'https://cdn.skypack.dev/pulsjs@1.0.13-prealpha'
+
+        const search = state('')
+
+        async function Flags() {
+            const flags = await fetch('/lib/flags.json').then(r => r.json());
+
+            return computed(() => flags.map(flag => html`
+                    <a :if=${flag.name.toLowerCase().includes(search.value.toLowerCase()) || flag.code.toLowerCase().includes(search.value.toLowerCase())} href=${flag.src} target="_BLANK" download=${flag.code+'.svg'} style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem; width: 160px; text-decoration: none; color: inherit;">
+                        <img src=${flag.src} style="width: 60px; border-radius: 100px; border: 2px solid #DDD;" alt=${flag.name} />
+                        <p style="text-align: center; display: flex; flex-direction: column; gap: 0.2rem;">
+                            <span style="opacity: 0.6">${flag.code}.svg</span>
+                            <span>${flag.name}</span>
+                        </p>
+                    </a>
+                `), [search])
+        }
+
+        appendTo(document.getElementById('app'), html`
+            <div class="container" style="display: flex; flex-direction: column; align-items: center; gap: 2rem; padding: 2rem; max-width: 1600px; margin: auto;">
+                <h1 style="text-align: center; margin-bottom: 4rem">InteraApps Flag Icons</h1>
+                
+                <input type="text" placeholder="Search..." :bind=${search} style="width: 300px; padding: 0.5rem; border-radius: 4px; border: 1px solid #DDD; font-size: 14px" />
+
+                <div style="display: flex; flex-wrap: wrap; gap: 1rem; width: 100%; justify-content: center; margin-bottom: 4rem;">
+                    <img src="/BANNER.svg" style="width: 400px;">
+                </div>
+
+                <div style="display: flex; flex-wrap: wrap; gap: 1rem; width: 100%; justify-content: center;">
+                    <${Flags} />
+                </div>
+            </div>
+        `);
+    </script>
+</body>
+</html>
